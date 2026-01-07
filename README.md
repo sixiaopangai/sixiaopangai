@@ -12,35 +12,35 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there, I'm Haoyu Li (sixiaopangai) 👋
-
 <p align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sixiaopangai.sixiaopangai" alt="Visitors">
 </p>
 
 ---
 
-### 💫 About Me / 自我介绍
+### 🌐 自我介绍 / Self-Introduction
+
+# Hi there, I'm Haoyu Li (sixiaopangai) 👋
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h4>🇨🇳 中文</h4>
-      <ul>
-        <li>计算机专业学生/老师，热衷于全栈开发</li>
-        <li>正在深入学习 <b>Java Web</b> 与 <b>Vue.js</b> 生态</li>
-        <li>目前正专注于完善我的个人博客与管理系统项目</li>
-        <li>保持学习，热爱折腾，享受编码的乐趣</li>
-      </ul>
+      <p>😋 我是李皓宇，很高兴认识你！</p>
+      <p>👨‍💻 合肥师范学院在读，本科计算机科学与技术，热衷于全栈开发</p>
+      <p>🌱 正在深入学习 <b>Java Web</b> 与 <b>Vue.js</b> 生态</p>
+      <p>🎯 目前正专注于完善我的个人博客与管理系统项目</p>
+      <p>❤️ 保持学习，热爱折腾，享受AI辅助编码的乐趣</p>
+      <p>🌏 开源项目爱好者！</p>
     </td>
     <td width="50%" valign="top">
       <h4>🇺🇸 English</h4>
-      <ul>
-        <li>CS student/teacher, passionate about Full-Stack development.</li>
-        <li>Focusing on <b>Java Web</b> and <b>Vue.js</b> ecosystem.</li>
-        <li>Currently working on personal blogs and management systems.</li>
-        <li>Keep learning, keep coding, and enjoy the process.</li>
-      </ul>
+      <p>😋I'm Haoyu Li, nice to meet you!
+      <p>👨‍💻 Currently studying at Hefei Normal University, undergraduate majoring in Computer Science and Technology, passionate about full-stack development.</p>
+      <p>🌱 Focusing on <b>Java Web</b> and <b>Vue.js</b> ecosystem.</p>
+      <p>🎯 Currently working on personal blogs and management systems.</p>
+      <p>❤️ Keep learning, love tinkering, and enjoy the fun of AI-assisted coding.</p>
+      <p>🌏 Open Source Enthusiast!</p>
     </td>
   </tr>
 </table>
@@ -63,9 +63,9 @@ Here are some ideas to get you started:
 ### 📊 GitHub Stats / 统计数据
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sixiaopangai&show_icons=true&theme=radical&hidedot=true" alt="sixiaopangai's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sixiaopangai&show_icons=true&theme=radical&hide_border=true" alt="sixiaopangai's GitHub stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixiaopangai&layout=compact&theme=radical" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixiaopangai&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
 </p>
 
 ---
@@ -78,5 +78,5 @@ Here are some ideas to get you started:
 
 ### 📫 Contact Me / 联系我
 
-* **Personal Blog:** [sixiaopangai.github.io](https://sixiaopangai.github.io)
+* **Personal Blog:** [blog.yushenchuanmei.top](https://blog.yushenchuanmei.top/)
 * **Email:** admin@yushenchuanmei.top

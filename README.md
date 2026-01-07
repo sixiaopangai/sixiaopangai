@@ -12,20 +12,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="center">
+![Header Image](在这里填入你的图片链接URL)
+<p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sixiaopangai.sixiaopangai" alt="Visitors">
 </p>
 
 ---
 
 ### 🌐 自我介绍 / Self-Introduction
-
-# Hi there, I'm Haoyu Li (sixiaopangai) 👋
-
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🇨🇳 中文</h4>
+      <h4>你好!👋</h4>
       <p>😋 我是李皓宇，很高兴认识你！</p>
       <p>👨‍💻 合肥师范学院在读，本科计算机科学与技术，热衷于全栈开发</p>
       <p>🌱 正在深入学习 <b>Java Web</b> 与 <b>Vue.js</b> 生态</p>
@@ -34,7 +32,7 @@ Here are some ideas to get you started:
       <p>🌏 开源项目爱好者！</p>
     </td>
     <td width="50%" valign="top">
-      <h4>🇺🇸 English</h4>
+      <h4>Hello!👋</h4>
       <p>😋I'm Haoyu Li, nice to meet you!
       <p>👨‍💻 Currently studying at Hefei Normal University, undergraduate majoring in Computer Science and Technology, passionate about full-stack development.</p>
       <p>🌱 Focusing on <b>Java Web</b> and <b>Vue.js</b> ecosystem.</p>

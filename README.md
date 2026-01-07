@@ -25,7 +25,7 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h4>你好!👋</h4>
       <p>😋 我是李皓宇，很高兴认识你！</p>
-      <p>👨‍💻 合肥师范学院在读，本科计算机科学与技术，热衷于全栈开发</p>
+      <p>🎓 合肥师范学院在读，本科计算机科学与技术，热衷于全栈开发</p>
       <p>🌱 正在深入学习 <b>Java Web</b> 与 <b>Vue.js</b> 生态</p>
       <p>🎯 目前正专注于完善我的个人博客与管理系统项目</p>
       <p>❤️ 保持学习，热爱折腾，享受AI辅助编码的乐趣</p>
@@ -34,7 +34,7 @@ Here are some ideas to get you started:
     <td width="50%" valign="top">
       <h4>Hello!👋</h4>
       <p>😋I'm Haoyu Li, nice to meet you!
-      <p>👨‍💻 Currently studying at Hefei Normal University, undergraduate majoring in Computer Science and Technology, passionate about full-stack development.</p>
+      <p>🎓 Currently studying at Hefei Normal University, undergraduate majoring in Computer Science and Technology, passionate about full-stack development.</p>
       <p>🌱 Focusing on <b>Java Web</b> and <b>Vue.js</b> ecosystem.</p>
       <p>🎯 Currently working on personal blogs and management systems.</p>
       <p>❤️ Keep learning, love tinkering, and enjoy the fun of AI-assisted coding.</p>

@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Header Image](https://raw.githubusercontent.com/sixiaopangai/sixiaopangai/refs/heads/main/favicon.ico)
+![Background Image](https://github.com/sixiaopangai/sixiaopangai/blob/main/Background%20image-small.png)
 <p align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=sixiaopangai.sixiaopangai" alt="Visitors">
 </p>

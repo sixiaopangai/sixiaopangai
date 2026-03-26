@@ -24,19 +24,19 @@ Here are some ideas to get you started:
   <tr>
     <td width="50%" valign="top">
       <h4>你好!👋</h4>
-      <p>😋 我是李皓宇，很高兴认识你！</p>
-      <p>🎓 合肥师范学院在读，本科计算机科学与技术，热衷于全栈开发</p>
-      <p>🌱 正在深入学习 <b>Java Web</b> 与 <b>Vue.js</b> 生态</p>
-      <p>🎯 目前正专注于完善我的个人博客与管理系统项目</p>
+      <p>😋 我是sixiaopangai，很高兴认识你！</p>
+      <p>🎓 本科计科专业在读，热衷于AI全栈开发</p>
+      <p>🌱 正在深入学习 <b>Next.js、React</b> 框架与 <b>Vue.js</b> 生态</p>
+      <p>🎯 目前正专注于完善优化我的个人博客项目</p>
       <p>❤️ 保持学习，热爱折腾，享受AI辅助编码的乐趣</p>
       <p>🌏 开源项目爱好者！</p>
     </td>
     <td width="50%" valign="top">
       <h4>Hello!👋</h4>
-      <p>😋I'm Haoyu Li, nice to meet you!
-      <p>🎓 Currently studying at Hefei Normal University, undergraduate majoring in Computer Science and Technology, passionate about full-stack development.</p>
-      <p>🌱 Focusing on <b>Java Web</b> and <b>Vue.js</b> ecosystem.</p>
-      <p>🎯 Currently working on personal blogs and management systems.</p>
+      <p>😋I'm sixiaopangai, nice to meet you!
+      <p>🎓 Currently enrolled in a Bachelor's degree program in Computer Science, passionate about full-stack AI development.</p>
+      <p>🌱 Focusing on <b>Next.js、React</b> framework and <b>Vue.js</b> ecosystem.</p>
+      <p>🎯 Currently focusing on refining and optimizing my personal blog project.</p>
       <p>❤️ Keep learning, love tinkering, and enjoy the fun of AI-assisted coding.</p>
       <p>🌏 Open Source Enthusiast!</p>
     </td>

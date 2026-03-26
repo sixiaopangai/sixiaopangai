@@ -66,10 +66,22 @@ Here are some ideas to get you started:
 
 ### 📊 GitHub Stats / 统计数据
 
+### 📊 GitHub Stats / 统计数据
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sixiaopangai&show_icons=true&theme=radical&hide_border=true" alt="sixiaopangai's GitHub stats" />
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sixiaopangai&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=sixiaopangai&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sixiaopangai&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sixiaopangai&theme=radical&no-frame=true&no-bg=true&margin-w=8" alt="Trophies" />
 </p>
 
 ---
